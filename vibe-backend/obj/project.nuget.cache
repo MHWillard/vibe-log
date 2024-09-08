@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "vQkXspaX04rKUuwS6buKZKH72nuM0rWhfDslY0JofAqXCi1IeBa7oj4poi/mUGsicE47QZtZEyK5VaDN8behEA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Gatack\\Desktop\\Coding\\Coding Projects\\vibe-log\\vibe-backend\\vibe-backend.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.EntityFrameworkCore.InMemory. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.EntityFrameworkCore.InMemory",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
